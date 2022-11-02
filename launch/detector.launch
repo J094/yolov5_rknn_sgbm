@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="detector" name="detector" type="detect.py" output="screen">
+	</node>
+</launch>
